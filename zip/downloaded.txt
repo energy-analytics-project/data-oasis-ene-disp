@@ -2422,3 +2422,6 @@ http://oasis.caiso.com/oasisapi/SingleZip?queryname=ENE_DISP&startdatetime=20190
 http://oasis.caiso.com/oasisapi/SingleZip?queryname=ENE_DISP&startdatetime=20190819T07:00-0000&enddatetime=20190820T07:00-0000&version=1
 http://oasis.caiso.com/oasisapi/SingleZip?queryname=ENE_DISP&startdatetime=20190820T07:00-0000&enddatetime=20190821T07:00-0000&version=1
 http://oasis.caiso.com/oasisapi/SingleZip?queryname=ENE_DISP&startdatetime=20190821T07:00-0000&enddatetime=20190822T07:00-0000&version=1
+http://oasis.caiso.com/oasisapi/SingleZip?queryname=ENE_DISP&startdatetime=20190822T07:00-0000&enddatetime=20190823T07:00-0000&version=1
+http://oasis.caiso.com/oasisapi/SingleZip?queryname=ENE_DISP&startdatetime=20190823T07:00-0000&enddatetime=20190824T07:00-0000&version=1
+http://oasis.caiso.com/oasisapi/SingleZip?queryname=ENE_DISP&startdatetime=20190824T07:00-0000&enddatetime=20190825T07:00-0000&version=1
